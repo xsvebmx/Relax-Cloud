@@ -7,4 +7,5 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![1](https://github.com/xsvebmx/Relax-Cloud/blob/main/img1.jpg)
+![2](https://github.com/xsvebmx/Relax-Cloud/blob/main/img2.jpg)
