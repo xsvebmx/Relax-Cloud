@@ -4,7 +4,9 @@ Relaxation application written in java webwiew, running through a local index.ht
 
 ## Authors
 
-- [@xsvebmx](https://www.github.com/xsvebmx) 
+<a href="https://t.me/Mirya53">
+    <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="30" height="30"/>
+</a> 
 
 
 
