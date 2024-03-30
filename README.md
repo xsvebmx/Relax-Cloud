@@ -13,11 +13,9 @@ Relaxation application written in java webwiew, running through a local index.ht
 ## Screenshots
 <div align="center">
 
-<img src="https://github.com/xsvebmx/Relax-Cloud/blob/main/img1.jpg" width="400"/>
+<img src="https://github.com/xsvebmx/Relax-Cloud/blob/main/img1.jpg" width="300"/>
 
-## 
-
-<img src="https://github.com/xsvebmx/Relax-Cloud/blob/main/img2.jpg" width="400"/>
+<img src="https://github.com/xsvebmx/Relax-Cloud/blob/main/img2.jpg" width="300"/>
 
 </div>
 
